@@ -18,7 +18,7 @@ export default function Login() {
   };
 
   const onSubmit = () => {
-    fetch("https://65fda9d1b2a18489b3853c1e.mockapi.io/login")
+    fetch("https://65fda9d1b2a18489b3853c1e.mockapi.io/student")
       .then((res) => res.json())
       .then((data) => {
         let filterdata = data.filter(
