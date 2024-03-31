@@ -49,7 +49,7 @@ export default function Login() {
           <div>
             <p>
               For test purpose use these credentials
-              <div>username: Madyson.Pollich password:YNYhSR5LqW8HpB2</div>
+              <div>username: Cindy43 password:wSfb7mkGzw3AIRL</div>
             </p>
           </div>
           <input
